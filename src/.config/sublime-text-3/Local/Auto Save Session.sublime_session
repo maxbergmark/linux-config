@@ -1,0 +1,839 @@
+{
+	"folder_history":
+	[
+		"/home/max/Documents",
+		"/var/www/html/max-homepage",
+		"/var/www/html"
+	],
+	"last_version": 3143,
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/max-homepage/routes/console.php",
+				"/var/www/html/max-homepage/routes/channels.php",
+				"/home/max/.themes/Gnome-OSX-V-Traditional-1-3-6-light-menu/gtk-3.0/gtk.css",
+				"/home/max/.bash_it/themes/zork/zork.theme.bash",
+				"/home/max/Documents/ding/golfer-backend/project/app/Console/Commands/UpdateSuggestedPrice.php",
+				"/home/max/Documents/ding/golfer-backend/project/database/migrations/2018_02_13_081545_alter_user_sessions_table_new_usertype_column.php",
+				"/home/max/Documents/ding/golfer-backend/project/database/migrations/2018_03_15_153310_alter_table_golfclubs_add_git_update_column.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/Module.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/User.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/BaseModel.php",
+				"/home/max/Documents/extra/key_word_cr.py",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/ModuleController.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/routes.php",
+				"/var/www/html/max-homepage/resources/views/welcome.blade.php",
+				"/home/max/.bashrc",
+				"/home/max/.bash_it/bash_it.sh",
+				"/home/max/.bash_it/themes/colors.theme.bash",
+				"/home/max/Documents/ding/tangar/Dingar2017/Assets/Scripts/World/CarpetBomb.cs",
+				"/home/max/Documents/extra/euler_119.py",
+				"/home/max/Documents/ding/tangar/Dingar2017/Assets/Scripts/World/CarpetBomb.cs:",
+				"/home/max/Documents/ding/tangar/Dingar2017/Assets/Scripts/World/Billboard.cs",
+				"/opt/sublime_text/sublime_text_unity",
+				"/home/max/Documents/extra/19",
+				"/home/max/Documents/ding/tangar-test-environment/TANGAR-test-environment/Assets/TangarAssets/Scripts/Util/FileSystemHelper.cs"
+			],
+			"find":
+			{
+				"height": 77.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\\.[1-4]",
+					"0\\.[0-4][0-9]+\\)"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 88.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 317.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"update_st",
+						"update_start_timestring"
+					],
+					[
+						"upd",
+						"update_end_timestring"
+					],
+					[
+						"update_",
+						"update_end_timestamp"
+					],
+					[
+						"gi",
+						"gitPriceAPI"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/ModuleController.php",
+					"settings":
+					{
+						"buffer_size": 36797,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Console/Commands/UpdateGITPrices.php",
+					"settings":
+					{
+						"buffer_size": 3133,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/Documents/extra/recursion_speed_test.py",
+					"settings":
+					{
+						"buffer_size": 786,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Services/Implementations/PricingService.php",
+					"settings":
+					{
+						"buffer_size": 24760,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "[\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521522000,\n        \"endTimestamp\" : 1521522060,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521522600,\n        \"endTimestamp\" : 1521522660,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521523200,\n        \"endTimestamp\" : 1521523260,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521523800,\n        \"endTimestamp\" : 1521523860,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521524400,\n        \"endTimestamp\" : 1521524460,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521525000,\n        \"endTimestamp\" : 1521525060,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521525600,\n        \"endTimestamp\" : 1521525660,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521526200,\n        \"endTimestamp\" : 1521526260,\n        \"price\" : 520\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521526800,\n        \"endTimestamp\" : 1521526860,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521527400,\n        \"endTimestamp\" : 1521527460,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521528000,\n        \"endTimestamp\" : 1521528060,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521528600,\n        \"endTimestamp\" : 1521528660,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521529200,\n        \"endTimestamp\" : 1521529260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521529800,\n        \"endTimestamp\" : 1521529860,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521530400,\n        \"endTimestamp\" : 1521530460,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521531000,\n        \"endTimestamp\" : 1521531060,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521531600,\n        \"endTimestamp\" : 1521531660,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521532200,\n        \"endTimestamp\" : 1521532260,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521532800,\n        \"endTimestamp\" : 1521532860,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521533400,\n        \"endTimestamp\" : 1521533460,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521534000,\n        \"endTimestamp\" : 1521534060,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521534600,\n        \"endTimestamp\" : 1521534660,\n        \"price\" : 585\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521535200,\n        \"endTimestamp\" : 1521535260,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521535800,\n        \"endTimestamp\" : 1521535860,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521536400,\n        \"endTimestamp\" : 1521536460,\n        \"price\" : 590\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521537000,\n        \"endTimestamp\" : 1521537060,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521537600,\n        \"endTimestamp\" : 1521537660,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521538200,\n        \"endTimestamp\" : 1521538260,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521538800,\n        \"endTimestamp\" : 1521538860,\n        \"price\" : 570\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521539400,\n        \"endTimestamp\" : 1521539460,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521540000,\n        \"endTimestamp\" : 1521540060,\n        \"price\" : 570\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521540600,\n        \"endTimestamp\" : 1521540660,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521541200,\n        \"endTimestamp\" : 1521541260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521541800,\n        \"endTimestamp\" : 1521541860,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521542400,\n        \"endTimestamp\" : 1521542460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521543000,\n        \"endTimestamp\" : 1521543060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521543600,\n        \"endTimestamp\" : 1521543660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521544200,\n        \"endTimestamp\" : 1521544260,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521544800,\n        \"endTimestamp\" : 1521544860,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521545400,\n        \"endTimestamp\" : 1521545460,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521546000,\n        \"endTimestamp\" : 1521546060,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521546600,\n        \"endTimestamp\" : 1521546660,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521547200,\n        \"endTimestamp\" : 1521547260,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521547800,\n        \"endTimestamp\" : 1521547860,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521548400,\n        \"endTimestamp\" : 1521548460,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521549000,\n        \"endTimestamp\" : 1521549060,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521549600,\n        \"endTimestamp\" : 1521549660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521550200,\n        \"endTimestamp\" : 1521550260,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521550800,\n        \"endTimestamp\" : 1521550860,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521551400,\n        \"endTimestamp\" : 1521551460,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521552000,\n        \"endTimestamp\" : 1521552060,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521552600,\n        \"endTimestamp\" : 1521552660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521553200,\n        \"endTimestamp\" : 1521553260,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521553800,\n        \"endTimestamp\" : 1521553860,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521554400,\n        \"endTimestamp\" : 1521554460,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521555000,\n        \"endTimestamp\" : 1521555060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521555600,\n        \"endTimestamp\" : 1521555660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521556200,\n        \"endTimestamp\" : 1521556260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521556800,\n        \"endTimestamp\" : 1521556860,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521557400,\n        \"endTimestamp\" : 1521557460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521558000,\n        \"endTimestamp\" : 1521558060,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521558600,\n        \"endTimestamp\" : 1521558660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521559200,\n        \"endTimestamp\" : 1521559260,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521559800,\n        \"endTimestamp\" : 1521559860,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521560400,\n        \"endTimestamp\" : 1521560460,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521561000,\n        \"endTimestamp\" : 1521561060,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521561600,\n        \"endTimestamp\" : 1521561660,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521562200,\n        \"endTimestamp\" : 1521562260,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521562800,\n        \"endTimestamp\" : 1521562860,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521563400,\n        \"endTimestamp\" : 1521563460,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521564000,\n        \"endTimestamp\" : 1521564060,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521564600,\n        \"endTimestamp\" : 1521564660,\n        \"price\" : 520\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521565200,\n        \"endTimestamp\" : 1521565260,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521565800,\n        \"endTimestamp\" : 1521565860,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521566400,\n        \"endTimestamp\" : 1521566460,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521567000,\n        \"endTimestamp\" : 1521567060,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521567600,\n        \"endTimestamp\" : 1521567660,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521568200,\n        \"endTimestamp\" : 1521568260,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521568800,\n        \"endTimestamp\" : 1521568860,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521569400,\n        \"endTimestamp\" : 1521569460,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521570000,\n        \"endTimestamp\" : 1521570060,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521570600,\n        \"endTimestamp\" : 1521570660,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521571200,\n        \"endTimestamp\" : 1521571260,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521571800,\n        \"endTimestamp\" : 1521571860,\n        \"price\" : 500\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521608400,\n        \"endTimestamp\" : 1521608460,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521609000,\n        \"endTimestamp\" : 1521609060,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521609600,\n        \"endTimestamp\" : 1521609660,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521610200,\n        \"endTimestamp\" : 1521610260,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521610800,\n        \"endTimestamp\" : 1521610860,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521611400,\n        \"endTimestamp\" : 1521611460,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521612000,\n        \"endTimestamp\" : 1521612060,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521612600,\n        \"endTimestamp\" : 1521612660,\n        \"price\" : 520\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521613200,\n        \"endTimestamp\" : 1521613260,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521613800,\n        \"endTimestamp\" : 1521613860,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521614400,\n        \"endTimestamp\" : 1521614460,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521615000,\n        \"endTimestamp\" : 1521615060,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521615600,\n        \"endTimestamp\" : 1521615660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521616200,\n        \"endTimestamp\" : 1521616260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521616800,\n        \"endTimestamp\" : 1521616860,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521617400,\n        \"endTimestamp\" : 1521617460,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521618000,\n        \"endTimestamp\" : 1521618060,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521618600,\n        \"endTimestamp\" : 1521618660,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521619200,\n        \"endTimestamp\" : 1521619260,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521619800,\n        \"endTimestamp\" : 1521619860,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521620400,\n        \"endTimestamp\" : 1521620460,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521621000,\n        \"endTimestamp\" : 1521621060,\n        \"price\" : 585\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521621600,\n        \"endTimestamp\" : 1521621660,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521622200,\n        \"endTimestamp\" : 1521622260,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521622800,\n        \"endTimestamp\" : 1521622860,\n        \"price\" : 590\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521623400,\n        \"endTimestamp\" : 1521623460,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521624000,\n        \"endTimestamp\" : 1521624060,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521624600,\n        \"endTimestamp\" : 1521624660,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521625200,\n        \"endTimestamp\" : 1521625260,\n        \"price\" : 570\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521625800,\n        \"endTimestamp\" : 1521625860,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521626400,\n        \"endTimestamp\" : 1521626460,\n        \"price\" : 570\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521627000,\n        \"endTimestamp\" : 1521627060,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521627600,\n        \"endTimestamp\" : 1521627660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521628200,\n        \"endTimestamp\" : 1521628260,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521628800,\n        \"endTimestamp\" : 1521628860,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521629400,\n        \"endTimestamp\" : 1521629460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521630000,\n        \"endTimestamp\" : 1521630060,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521630600,\n        \"endTimestamp\" : 1521630660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521631200,\n        \"endTimestamp\" : 1521631260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521631800,\n        \"endTimestamp\" : 1521631860,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521632400,\n        \"endTimestamp\" : 1521632460,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521633000,\n        \"endTimestamp\" : 1521633060,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521633600,\n        \"endTimestamp\" : 1521633660,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521634200,\n        \"endTimestamp\" : 1521634260,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521634800,\n        \"endTimestamp\" : 1521634860,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521635400,\n        \"endTimestamp\" : 1521635460,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521636000,\n        \"endTimestamp\" : 1521636060,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521636600,\n        \"endTimestamp\" : 1521636660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521637200,\n        \"endTimestamp\" : 1521637260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521637800,\n        \"endTimestamp\" : 1521637860,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521638400,\n        \"endTimestamp\" : 1521638460,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521639000,\n        \"endTimestamp\" : 1521639060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521639600,\n        \"endTimestamp\" : 1521639660,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521640200,\n        \"endTimestamp\" : 1521640260,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521640800,\n        \"endTimestamp\" : 1521640860,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521641400,\n        \"endTimestamp\" : 1521641460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521642000,\n        \"endTimestamp\" : 1521642060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521642600,\n        \"endTimestamp\" : 1521642660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521643200,\n        \"endTimestamp\" : 1521643260,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521643800,\n        \"endTimestamp\" : 1521643860,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521644400,\n        \"endTimestamp\" : 1521644460,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521645000,\n        \"endTimestamp\" : 1521645060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521645600,\n        \"endTimestamp\" : 1521645660,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521646200,\n        \"endTimestamp\" : 1521646260,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521646800,\n        \"endTimestamp\" : 1521646860,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521647400,\n        \"endTimestamp\" : 1521647460,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521648000,\n        \"endTimestamp\" : 1521648060,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521648600,\n        \"endTimestamp\" : 1521648660,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521649200,\n        \"endTimestamp\" : 1521649260,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521649800,\n        \"endTimestamp\" : 1521649860,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521650400,\n        \"endTimestamp\" : 1521650460,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521651000,\n        \"endTimestamp\" : 1521651060,\n        \"price\" : 520\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521651600,\n        \"endTimestamp\" : 1521651660,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521652200,\n        \"endTimestamp\" : 1521652260,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521652800,\n        \"endTimestamp\" : 1521652860,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521653400,\n        \"endTimestamp\" : 1521653460,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521654000,\n        \"endTimestamp\" : 1521654060,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521654600,\n        \"endTimestamp\" : 1521654660,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521655200,\n        \"endTimestamp\" : 1521655260,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521655800,\n        \"endTimestamp\" : 1521655860,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521656400,\n        \"endTimestamp\" : 1521656460,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521657000,\n        \"endTimestamp\" : 1521657060,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521657600,\n        \"endTimestamp\" : 1521657660,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521658200,\n        \"endTimestamp\" : 1521658260,\n        \"price\" : 500\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521694800,\n        \"endTimestamp\" : 1521694860,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521695400,\n        \"endTimestamp\" : 1521695460,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521696000,\n        \"endTimestamp\" : 1521696060,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521696600,\n        \"endTimestamp\" : 1521696660,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521697200,\n        \"endTimestamp\" : 1521697260,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521697800,\n        \"endTimestamp\" : 1521697860,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521698400,\n        \"endTimestamp\" : 1521698460,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521699000,\n        \"endTimestamp\" : 1521699060,\n        \"price\" : 520\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521699600,\n        \"endTimestamp\" : 1521699660,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521700200,\n        \"endTimestamp\" : 1521700260,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521700800,\n        \"endTimestamp\" : 1521700860,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521701400,\n        \"endTimestamp\" : 1521701460,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521702000,\n        \"endTimestamp\" : 1521702060,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521702600,\n        \"endTimestamp\" : 1521702660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521703200,\n        \"endTimestamp\" : 1521703260,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521703800,\n        \"endTimestamp\" : 1521703860,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521704400,\n        \"endTimestamp\" : 1521704460,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521705000,\n        \"endTimestamp\" : 1521705060,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521705600,\n        \"endTimestamp\" : 1521705660,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521706200,\n        \"endTimestamp\" : 1521706260,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521706800,\n        \"endTimestamp\" : 1521706860,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521707400,\n        \"endTimestamp\" : 1521707460,\n        \"price\" : 585\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521708000,\n        \"endTimestamp\" : 1521708060,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521708600,\n        \"endTimestamp\" : 1521708660,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521709200,\n        \"endTimestamp\" : 1521709260,\n        \"price\" : 590\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521709800,\n        \"endTimestamp\" : 1521709860,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521710400,\n        \"endTimestamp\" : 1521710460,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521711000,\n        \"endTimestamp\" : 1521711060,\n        \"price\" : 580\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521711600,\n        \"endTimestamp\" : 1521711660,\n        \"price\" : 570\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521712200,\n        \"endTimestamp\" : 1521712260,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521712800,\n        \"endTimestamp\" : 1521712860,\n        \"price\" : 570\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521713400,\n        \"endTimestamp\" : 1521713460,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521714000,\n        \"endTimestamp\" : 1521714060,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521714600,\n        \"endTimestamp\" : 1521714660,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521715200,\n        \"endTimestamp\" : 1521715260,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521715800,\n        \"endTimestamp\" : 1521715860,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521716400,\n        \"endTimestamp\" : 1521716460,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521717000,\n        \"endTimestamp\" : 1521717060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521717600,\n        \"endTimestamp\" : 1521717660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521718200,\n        \"endTimestamp\" : 1521718260,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521718800,\n        \"endTimestamp\" : 1521718860,\n        \"price\" : 555\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521719400,\n        \"endTimestamp\" : 1521719460,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521720000,\n        \"endTimestamp\" : 1521720060,\n        \"price\" : 575\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521720600,\n        \"endTimestamp\" : 1521720660,\n        \"price\" : 565\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521721200,\n        \"endTimestamp\" : 1521721260,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521721800,\n        \"endTimestamp\" : 1521721860,\n        \"price\" : 560\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521722400,\n        \"endTimestamp\" : 1521722460,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521723000,\n        \"endTimestamp\" : 1521723060,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521723600,\n        \"endTimestamp\" : 1521723660,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521724200,\n        \"endTimestamp\" : 1521724260,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521724800,\n        \"endTimestamp\" : 1521724860,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521725400,\n        \"endTimestamp\" : 1521725460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521726000,\n        \"endTimestamp\" : 1521726060,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521726600,\n        \"endTimestamp\" : 1521726660,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521727200,\n        \"endTimestamp\" : 1521727260,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521727800,\n        \"endTimestamp\" : 1521727860,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521728400,\n        \"endTimestamp\" : 1521728460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521729000,\n        \"endTimestamp\" : 1521729060,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521729600,\n        \"endTimestamp\" : 1521729660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521730200,\n        \"endTimestamp\" : 1521730260,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521730800,\n        \"endTimestamp\" : 1521730860,\n        \"price\" : 550\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521731400,\n        \"endTimestamp\" : 1521731460,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521732000,\n        \"endTimestamp\" : 1521732060,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521732600,\n        \"endTimestamp\" : 1521732660,\n        \"price\" : 545\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521733200,\n        \"endTimestamp\" : 1521733260,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521733800,\n        \"endTimestamp\" : 1521733860,\n        \"price\" : 535\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521734400,\n        \"endTimestamp\" : 1521734460,\n        \"price\" : 540\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521735000,\n        \"endTimestamp\" : 1521735060,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521735600,\n        \"endTimestamp\" : 1521735660,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521736200,\n        \"endTimestamp\" : 1521736260,\n        \"price\" : 530\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521736800,\n        \"endTimestamp\" : 1521736860,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521737400,\n        \"endTimestamp\" : 1521737460,\n        \"price\" : 520\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521738000,\n        \"endTimestamp\" : 1521738060,\n        \"price\" : 525\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521738600,\n        \"endTimestamp\" : 1521738660,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521739200,\n        \"endTimestamp\" : 1521739260,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521739800,\n        \"endTimestamp\" : 1521739860,\n        \"price\" : 515\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521740400,\n        \"endTimestamp\" : 1521740460,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521741000,\n        \"endTimestamp\" : 1521741060,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521741600,\n        \"endTimestamp\" : 1521741660,\n        \"price\" : 510\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521742200,\n        \"endTimestamp\" : 1521742260,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521742800,\n        \"endTimestamp\" : 1521742860,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521743400,\n        \"endTimestamp\" : 1521743460,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521744000,\n        \"endTimestamp\" : 1521744060,\n        \"price\" : 505\n    ],\n    [\n        \"golfcourseUUID\" : \"e74449ee-fb55-4574-8287-1721cea4432a\",\n        \"startTimestamp\" : 1521744600,\n        \"endTimestamp\" : 1521744660,\n        \"price\" : 500\n    ]\n]",
+					"settings":
+					{
+						"buffer_size": 44858,
+						"line_ending": "Unix",
+						"name": "["
+					}
+				},
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Helpers/Implementations/DateHelper.php",
+					"settings":
+					{
+						"buffer_size": 2611,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Repositories/Implementations/ModuleRepositoryEloquent.php",
+					"settings":
+					{
+						"buffer_size": 26814,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Services/Implementations/CurlService.php",
+					"settings":
+					{
+						"buffer_size": 16395,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/.ssh/config",
+					"settings":
+					{
+						"buffer_size": 1713,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/max/Documents/ding/golfer-backend/project/app/Services/Interfaces/CurlServiceInterface.php",
+					"settings":
+					{
+						"buffer_size": 436,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "rein",
+				"selected_items":
+				[
+					[
+						"rein",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/max/Documents",
+				"/home/max/Documents/ding",
+				"/home/max/Documents/ding/golfer-backend",
+				"/home/max/Documents/ding/golfer-backend/project",
+				"/home/max/Documents/ding/golfer-backend/project/app",
+				"/home/max/Documents/ding/golfer-backend/project/app/Console",
+				"/home/max/Documents/ding/golfer-backend/project/app/Console/Commands",
+				"/home/max/Documents/ding/golfer-backend/project/app/Helpers",
+				"/home/max/Documents/ding/golfer-backend/project/app/Helpers/Implementations",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/OutputTraits",
+				"/home/max/Documents/ding/golfer-backend/project/app/Repositories",
+				"/home/max/Documents/ding/golfer-backend/project/app/Repositories/Implementations",
+				"/home/max/Documents/ding/golfer-backend/project/app/Services",
+				"/home/max/Documents/ding/golfer-backend/project/app/Services/Implementations",
+				"/home/max/Documents/ding/golfer-backend/project/app/Services/Interfaces"
+			],
+			"file_history":
+			[
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/GolfcourseController.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/Controller.php",
+				"/home/max/isabella_install.sh",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/OutputTraits/ModuleOutput.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/BookingController.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Repositories/Implementations/BookingRepositoryEloquent.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Repositories/Implementations/PaymentRepositoryEloquent.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/PaymentController.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/Golfclub.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/TeeTime.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/Booking.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/OutputTraits/BookingOutput.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Services/Implementations/PricingService.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/OutputTraits/TeeTimeOutput.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/routes.php",
+				"/home/max/Documents/ding/dynamic_pricing_scripts/fake_clubs/insert_fake_clubs.py",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/DistanceFilter.php",
+				"/home/max/Documents/extra/calculate_turns.py",
+				"/home/max/Documents/extra/bounce.py",
+				"/var/www/html/max-homepage/routes/console.php",
+				"/var/www/html/max-homepage/routes/channels.php",
+				"/home/max/.themes/Gnome-OSX-V-Traditional-1-3-6-light-menu/gtk-3.0/gtk.css",
+				"/home/max/.bash_it/themes/zork/zork.theme.bash",
+				"/home/max/Documents/ding/golfer-backend/project/app/Console/Commands/UpdateSuggestedPrice.php",
+				"/home/max/Documents/ding/golfer-backend/project/database/migrations/2018_02_13_081545_alter_user_sessions_table_new_usertype_column.php",
+				"/home/max/Documents/ding/golfer-backend/project/database/migrations/2018_03_15_153310_alter_table_golfclubs_add_git_update_column.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/Module.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/User.php",
+				"/home/max/Documents/ding/golfer-backend/project/app/Models/Eloquent/BaseModel.php",
+				"/home/max/Documents/extra/key_word_cr.py",
+				"/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/ModuleController.php",
+				"/var/www/html/max-homepage/resources/views/welcome.blade.php",
+				"/home/max/.bashrc",
+				"/home/max/.bash_it/bash_it.sh",
+				"/home/max/.bash_it/themes/colors.theme.bash",
+				"/home/max/Documents/ding/tangar/Dingar2017/Assets/Scripts/World/CarpetBomb.cs",
+				"/home/max/Documents/extra/euler_119.py",
+				"/home/max/Documents/ding/tangar/Dingar2017/Assets/Scripts/World/CarpetBomb.cs:",
+				"/home/max/Documents/ding/tangar/Dingar2017/Assets/Scripts/World/Billboard.cs",
+				"/opt/sublime_text/sublime_text_unity",
+				"/home/max/Documents/extra/19",
+				"/home/max/Documents/ding/tangar-test-environment/TANGAR-test-environment/Assets/TangarAssets/Scripts/Util/FileSystemHelper.cs"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"=>",
+					"\\]",
+					"1721cea4432a",
+					"\\[[a-zA-Z]+\"",
+					"\\[[a-zA-Z]+\\]",
+					"\\)",
+					"\\[[0-9]{1,3}\\] => Array\\n        \\(",
+					"2",
+					"\"095ba5d7-c5cd-4209-96f4-f8e648b9dd34\"",
+					":",
+					"pricing",
+					"git",
+					"Carbon::createFromTime",
+					"INFORMATION_MISMATCH",
+					"login"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/max/Documents"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Http/Controllers/ModuleController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36797,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20099,
+										20099
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Console/Commands/UpdateGITPrices.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2625,
+										2625
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 465.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/max/Documents/extra/recursion_speed_test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 786,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										779,
+										779
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Services/Implementations/PricingService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24760,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1606,
+										1606
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 510.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 44858,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1040,
+										1040
+									]
+								],
+								"settings":
+								{
+									"auto_name": "[",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Helpers/Implementations/DateHelper.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2611,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										988,
+										1039
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Repositories/Implementations/ModuleRepositoryEloquent.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 26814,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16287,
+										16287
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6287.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Services/Implementations/CurlService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16395,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5483,
+										5483
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2394.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/max/.ssh/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1713,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1713,
+										1713
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/max/Documents/ding/golfer-backend/project/app/Services/Interfaces/CurlServiceInterface.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 436,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										189,
+										189
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,2583,67,3223,547,3760,2880",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 317.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

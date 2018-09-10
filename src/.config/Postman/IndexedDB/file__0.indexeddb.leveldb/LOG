@@ -1,0 +1,44 @@
+2018/03/19-16:34:31.663 21591 Reusing MANIFEST /home/max/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/03/19-16:34:31.663 21591 Recovering log #11
+2018/03/19-16:34:31.664 21591 Reusing old log /home/max/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000011.log 
+2018/03/19-16:35:50.810 21591 Current memtable full; waiting...
+2018/03/19-16:35:50.810 22138 Level-0 table #16: started
+2018/03/19-16:35:50.814 22138 Level-0 table #16: 224243 bytes OK
+2018/03/19-16:35:50.815 22138 Delete type=0 #11
+2018/03/19-16:35:50.816 22138 Level-0 table #18: started
+2018/03/19-16:35:50.816 22138 Level-0 table #18: 0 bytes OK
+2018/03/19-16:35:50.818 22138 Delete type=0 #15
+2018/03/19-16:35:50.818 22138 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2018/03/19-16:35:56.296 22138 Compacting 1@1 + 1@2 files
+2018/03/19-16:35:56.303 22138 Generated table #19@1: 1069 keys, 292572 bytes
+2018/03/19-16:35:56.303 22138 Compacted 1@1 + 1@2 files => 292572 bytes
+2018/03/19-16:35:56.305 22138 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/03/19-16:35:56.305 22138 Delete type=2 #16
+2018/03/19-16:35:56.305 22138 Delete type=2 #13
+2018/03/20-09:23:57.976 22138 Level-0 table #21: started
+2018/03/20-09:23:57.997 22138 Level-0 table #21: 2082667 bytes OK
+2018/03/20-09:23:57.999 22138 Delete type=0 #17
+2018/03/20-09:24:23.726 22138 Compacting 1@1 + 1@2 files
+2018/03/20-09:24:23.734 22138 Generated table #22@1: 1415 keys, 349834 bytes
+2018/03/20-09:24:23.734 22138 Compacted 1@1 + 1@2 files => 349834 bytes
+2018/03/20-09:24:23.737 22138 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/03/20-09:24:23.737 22138 Delete type=2 #21
+2018/03/20-09:24:23.737 22138 Delete type=2 #19
+2018/03/20-10:42:42.284 22138 Level-0 table #24: started
+2018/03/20-10:42:42.300 22138 Level-0 table #24: 1765553 bytes OK
+2018/03/20-10:42:42.301 22138 Delete type=0 #20
+2018/03/20-10:42:47.281 22138 Compacting 1@1 + 1@2 files
+2018/03/20-10:42:47.291 22138 Generated table #25@1: 1488 keys, 421522 bytes
+2018/03/20-10:42:47.291 22138 Compacted 1@1 + 1@2 files => 421522 bytes
+2018/03/20-10:42:47.292 22138 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/03/20-10:42:47.292 22138 Delete type=2 #24
+2018/03/20-10:42:47.292 22138 Delete type=2 #22
+2018/03/20-12:04:40.713 22138 Level-0 table #27: started
+2018/03/20-12:04:40.726 22138 Level-0 table #27: 1456474 bytes OK
+2018/03/20-12:04:40.728 22138 Delete type=0 #23
+2018/03/20-12:04:44.265 22138 Compacting 1@1 + 1@2 files
+2018/03/20-12:04:44.281 22138 Generated table #28@1: 1542 keys, 437317 bytes
+2018/03/20-12:04:44.281 22138 Compacted 1@1 + 1@2 files => 437317 bytes
+2018/03/20-12:04:44.282 22138 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/03/20-12:04:44.282 22138 Delete type=2 #25
+2018/03/20-12:04:44.282 22138 Delete type=2 #27

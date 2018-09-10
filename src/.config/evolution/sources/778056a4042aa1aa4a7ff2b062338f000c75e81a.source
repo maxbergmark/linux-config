@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=max.bergmark@gmail.com
+Enabled=true
+Parent=f8f149121e23ded54256ff9dc2d07b8284e9b906
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=max.bergmark@gmail.com
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

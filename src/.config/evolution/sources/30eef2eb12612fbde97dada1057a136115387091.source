@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=max.bergmark@gmail.com
+Enabled=true
+Parent=f8f149121e23ded54256ff9dc2d07b8284e9b906
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=max.bergmark@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=778056a4042aa1aa4a7ff2b062338f000c75e81a
+RepliesToOriginFolder=false
+UseSentFolder=true

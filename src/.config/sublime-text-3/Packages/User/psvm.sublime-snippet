@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+public static void main(String[] args) {
+	
+}
+]]></content>
+    <tabTrigger>psvm</tabTrigger>
+    <scope>source.java</scope>
+</snippet>
