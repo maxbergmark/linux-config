@@ -5,7 +5,6 @@ sudo apt update
 sudo apt install google-chrome-stable
 
 sudo apt install cryptsetup
-sudo apt install dconf-editor
 
 # sublime text
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
@@ -23,40 +22,26 @@ sudo apt install powerstat
 # foreground-color = rgb(255,255,255)
 # palette = ['rgb(46,52,54)', 'rgb(255,79,79)', 'rgb(57,234,20)', 'rgb(196,160,0)', 'rgb(40,116,213)', 'rgb(0,0,0)', 'rgb(6,152,154)', 'rgb(212,217,207)', 'rgb(85,87,83)', 'rgb(214,152,152)', 'rgb(86,227,79)', 'rgb(253,234,79)', 'rgb(187,198,210)', 'rgb(179,127,173)', 'rgb(52,226,226)', 'rgb(239,239,236)']
 
-# for gnome extensions
-sudo apt install chrome-gnome-shell
-sudo apt install gir1.2-gtop-2.0 gir1.2-networkmanager-1.0  gir1.2-clutter-1.0
 # system-monitor
 # 
 
 sudo apt install git
-
-# for temperature reading
-sudo apt install lm-sensors
 
 # google drive
 sudo add-apt-repository ppa:alessandro-strada/ppa
 sudo apt update
 sudo apt install google-drive-ocamlfuse
 
-# spotify
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0DF731E45CE24F27EEEB1450EFDC8610341D9410
-echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
-sudo apt update
-sudo apt install spotify-client
-
 sudo apt install adb
 
 # install android studio
 sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
 
-# for removing warnings in gnome
-sudo apt-get install gtk2-engines-pixbuf
-
 sudo apt remove openjdk-9-*
 sudo apt install openjdk-8-jdk
 
 # python3 installation
+sudo pip3 install --upgrade pip
 sudo apt install python3-pip
 sudo apt install python3-pyqt5
 sudo pip3 install numpy
